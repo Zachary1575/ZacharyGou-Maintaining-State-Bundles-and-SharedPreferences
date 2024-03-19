@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">a_through_c</string>
+    <string name="place_holder_text">Place Holder Text</string>
+    <string name="click_me">Click Me!</string>
+</resources>
